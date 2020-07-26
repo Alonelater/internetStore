@@ -1,0 +1,56 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="InternetStore:war exploded">
+    <output-path>D:/tomcat8.5/webapps/InternetStore</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="InternetStore/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="InternetStore" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="E:/拷到u盘的东西/alwaysUseJar/c3p0-0.9.5.2.jar" />
+          <element id="file-copy" path="E:/拷到u盘的东西/alwaysUseJar/commons-beanutils-1.8.0.jar" />
+          <element id="file-copy" path="E:/拷到u盘的东西/alwaysUseJar/commons-dbutils-1.6.jar" />
+          <element id="file-copy" path="E:/拷到u盘的东西/alwaysUseJar/commons-fileupload-1.2.1.jar" />
+          <element id="file-copy" path="E:/拷到u盘的东西/alwaysUseJar/commons-io-2.0.jar" />
+          <element id="file-copy" path="E:/拷到u盘的东西/alwaysUseJar/commons-lang3-3.2.1.jar" />
+          <element id="file-copy" path="E:/拷到u盘的东西/alwaysUseJar/commons-logging-1.1.1.jar" />
+          <element id="file-copy" path="E:/拷到u盘的东西/alwaysUseJar/mchange-commons-java-0.2.11.jar" />
+          <element id="file-copy" path="E:/拷到u盘的东西/alwaysUseJar/mysql-connector-java-5.1.47-bin.jar" />
+          <element id="file-copy" path="E:/拷到u盘的东西/alwaysUseJar/taglibs-standard-spec-1.2.5.jar" />
+          <element id="file-copy" path="E:/拷到u盘的东西/alwaysUseJar/taglibs-standard-impl-1.2.5.jar" />
+          <element id="file-copy" path="E:/拷到u盘的东西/jar包汇总/其它jar包/09.dom4j/dom4j-1.6.1.jar" />
+          <element id="file-copy" path="E:/拷到u盘的东西/jar包汇总/其它jar包/08.邮件/mail.jar" />
+          <element id="file-copy" path="E:/拷到u盘的东西/jar包汇总/其它jar包/09.dom4j/jaxen-1.1-beta-6.jar" />
+          <element id="file-copy" path="E:/拷到u盘的东西/alwaysUseJar/json-lib-2.4-jdk15.jar" />
+          <element id="file-copy" path="E:/拷到u盘的东西/alwaysUseJar/ezmorph-1.0.6.jar" />
+          <element id="file-copy" path="E:/拷到u盘的东西/alwaysUseJar/commons-collections-3.2.1.jar" />
+          <element id="file-copy" path="E:/拷到u盘的东西/jar包汇总/其它jar包/json jar/commons-lang-2.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/mail.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/gson-2.8.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/dom4j-1.6.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/c3p0-0.9.5.2.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/ezmorph-1.0.6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/commons-io-2.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/commons-dbcp-1.4.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/commons-lang-2.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/jaxen-1.1-beta-6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/commons-pool-1.5.6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/json-lib-2.4-jdk15.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/commons-dbutils-1.6.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/commons-lang3-3.2.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/commons-logging-1.1.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/commons-beanutils-1.8.0.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/commons-fileupload-1.2.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/commons-collections-3.2.1.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/mchange-commons-java-0.2.11.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/taglibs-standard-jstlel-1.2.5.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.39-bin.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.47-bin.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
